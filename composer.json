@@ -1,0 +1,14 @@
+{
+    "name": "munodei/simple-calculator",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Terrence Munodei",
+            "email": "terencemunodei25@gmail.com"
+        }
+    ]
+}
